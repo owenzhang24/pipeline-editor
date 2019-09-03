@@ -1,3 +1,8 @@
+##运行
+###http://localhost:3011/#/pipeline
+###npm run dev
+
+
 # pipeline-editor
 > 页面可视化搭建框架的 web 编辑器
 
